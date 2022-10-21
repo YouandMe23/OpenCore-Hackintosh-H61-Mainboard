@@ -1,5 +1,5 @@
 # OpenCore-Hackintosh-H61-Mainboard
-#Project: Make the hackintosh progress faster
+#Project: Making the hackintosh progress faster
 
 ## System Specifications:
 - CPU: Intel(R) Pentium(R) G2010 (Ivy Bridge)
