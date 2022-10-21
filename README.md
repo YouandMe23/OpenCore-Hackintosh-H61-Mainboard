@@ -6,7 +6,7 @@
 - GPU: nVIDIA GeForce GT 730
 - Motherboard: H61
 - Ethernet: Realtek RTL8168/8111 PCl-E
-- Audio: Realtekk ALC887
+- Audio: Realtek ALC887
 
 ## Working
 - We're working on it! Please come back later!
