@@ -15,6 +15,6 @@
 - We're working on it! Please come back later!
 
 ## Changelog
-### - 22.10.2022:
+### - October 22, 2022:
 - Fixed the ReservedMemory problem.
 - Fixed the ACPI failed to drop.
